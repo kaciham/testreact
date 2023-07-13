@@ -24,29 +24,31 @@ const About = () => {
         Necessitatibus possimus non laudantium.
       </p>
       <br />
-      <p />
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus aperiam
-      molestiae doloribus odit deserunt repellendus porro, nam fuga. Obcaecati
-      laudantium minima consequuntur fuga modi. Accusamus fuga vel neque
-      inventore? Illum deserunt corrupti voluptates illo, ipsum vel quo autem
-      cupiditate eum optio dignissimos praesentium, maxime voluptatum rerum
-      perferendis accusamus eligendi temporibus hic. Nisi reprehenderit cum
-      totam exercitationem. Repudiandae minus esse laborum saepe. Mollitia omnis
-      error molestias. Voluptate sequi est nobis aperiam inventore molestiae
-      modi optio quos similique sunt laboriosam doloribus nesciunt qui, labore
-      delectus, officiis praesentium perferendis perspiciatis cupiditate,
-      veritatis mollitia quidem maiores amet. Voluptas distinctio tempora
-      blanditiis quos dolore iure architecto. Autem fuga ipsum beatae
-      consequuntur laboriosam magni voluptate delectus fugit possimus velit, sed
-      ad. Ducimus, nostrum blanditiis. Aliquid, iusto. Eius amet praesentium
-      illo vitae quis ad, voluptas minima obcaecati. Sequi, assumenda inventore
-      quibusdam officia nesciunt aut commodi? Architecto provident, ducimus
-      excepturi a ipsam, earum eius suscipit enim non ea nulla iure tenetur
-      alias molestiae, totam placeat quasi beatae aspernatur rem quas veniam
-      velit repudiandae! Mollitia, consectetur soluta dolores eos, perspiciatis
-      iste earum reiciendis minus eius odio nulla nisi tempora doloremque.
-      Facilis ducimus id explicabo placeat, eligendi aperiam delectus magni enim
-      ad fugit itaque omnis expedita vitae distinctio, voluptatem quidem?
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus aperiam
+        molestiae doloribus odit deserunt repellendus porro, nam fuga. Obcaecati
+        laudantium minima consequuntur fuga modi. Accusamus fuga vel neque
+        inventore? Illum deserunt corrupti voluptates illo, ipsum vel quo autem
+        cupiditate eum optio dignissimos praesentium, maxime voluptatum rerum
+        perferendis accusamus eligendi temporibus hic. Nisi reprehenderit cum
+        totam exercitationem. Repudiandae minus esse laborum saepe. Mollitia
+        omnis error molestias. Voluptate sequi est nobis aperiam inventore
+        molestiae modi optio quos similique sunt laboriosam doloribus nesciunt
+        qui, labore delectus, officiis praesentium perferendis perspiciatis
+        cupiditate, veritatis mollitia quidem maiores amet. Voluptas distinctio
+        tempora blanditiis quos dolore iure architecto. Autem fuga ipsum beatae
+        consequuntur laboriosam magni voluptate delectus fugit possimus velit,
+        sed ad. Ducimus, nostrum blanditiis. Aliquid, iusto. Eius amet
+        praesentium illo vitae quis ad, voluptas minima obcaecati. Sequi,
+        assumenda inventore quibusdam officia nesciunt aut commodi? Architecto
+        provident, ducimus excepturi a ipsam, earum eius suscipit enim non ea
+        nulla iure tenetur alias molestiae, totam placeat quasi beatae
+        aspernatur rem quas veniam velit repudiandae! Mollitia, consectetur
+        soluta dolores eos, perspiciatis iste earum reiciendis minus eius odio
+        nulla nisi tempora doloremque. Facilis ducimus id explicabo placeat,
+        eligendi aperiam delectus magni enim ad fugit itaque omnis expedita
+        vitae distinctio, voluptatem quidem?
+      </p>
     </div>
   );
 };

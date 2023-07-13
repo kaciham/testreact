@@ -15,6 +15,12 @@ const Navigation = () => {
           {/* // on utlise le module NavLink et on renseigne l'url avec 'to="/exemple"' */}
           <li>à propos</li>
         </NavLink>
+        <NavLink
+          to="/blog"
+          className={(nav) => (nav.isActive ? "nav-active" : "")}
+        >
+          <li>blog</li>
+        </NavLink>
       </ul>
     </div>
   );
